@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(106,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(125,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(130,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(138,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(144,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(152,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(158,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(168,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(172,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(181,17): warning C4551: function call missing argument list
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(311,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(312,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(329,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\main.cpp(330,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Point2d.cpp
+  Generating Code...
+  Snake_A3.vcxproj -> C:\Users\josep\Documents\ISE\ise102_a3_LevyVillaseñor_JosePablo\x64\Debug\Snake_A3.exe
